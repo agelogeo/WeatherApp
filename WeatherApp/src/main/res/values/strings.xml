@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App4Tan</string>
+
+    <string name="action_settings">No Settings bitch!</string>
+    <string name="showLoc">SHOW LOCATION</string>
+    <string name="tempLabel">Temp</string>
+    <string name="descLabel">Description</string>
+    <string name="pressureLabel">Pressure</string>
+    <string name="humidityLabel">Humidity</string>
+    <string name="latLabel">Latitude</string>
+    <string name="longLabel">Longitude</string>
+    <string name="cityLabel">City</string>
+</resources>
